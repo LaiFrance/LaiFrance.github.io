@@ -32,12 +32,11 @@ font-weight: normal;
 }
 
 
-
 .box {
     background-color:rgb(236, 223, 223);
     padding: 4rem;
-    box-shadow: 2px 2px 16px rgba(rgb(224, 169, 169), rgb(233, 182, 233), rgb(230, 197, 243), alpha) ;
-    border-radius: 50px;
+    box-shadow: 2px 2px 16px rgba(rgb(8, 8, 8), rgb(233, 182, 233), rgb(230, 197, 243), alpha) ;
+    border-radius: 20px;
     text-align: center;
 }
 
@@ -49,12 +48,12 @@ font-weight: normal;
 }
 
 .box span {
-font-size: 30px;
+font-size: 20px;
 
 }
 
 .profile p {
-font-size: 30px;
+font-size: 20px;
 margin-top:2rem;
 margin-bottom:4rem;
 
