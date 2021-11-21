@@ -1,0 +1,73 @@
+* {
+margin: 0;
+padding: 0;
+
+}
+
+img {
+  display:block;
+  max-width: 100%;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+ font-family: "Source Code Pro", monospace;
+ background: url("../imagens/—Pngtree—chinese\ style\ antiquity\ beautiful\ watercolor_930138.jpg")no-repeat top center;
+background-attachment: fixed;
+background-size:cover ;
+display: grid;
+align-items: center;
+justify-items: center;
+height: 100vh;
+color: rgb(204, 64, 64);
+
+}
+
+.title{
+   font: size 100px; ;
+font-weight: normal;
+}
+
+
+
+.box {
+    background-color:rgb(236, 223, 223);
+    padding: 4rem;
+    box-shadow: 2px 2px 16px rgba(rgb(224, 169, 169), rgb(233, 182, 233), rgb(230, 197, 243), alpha) ;
+    border-radius: 50px;
+    text-align: center;
+}
+
+.profile-pic {
+
+    border-radius: 50%;
+    margin:0 auto 2rem auto;
+    
+}
+
+.box span {
+font-size: 30px;
+
+}
+
+.profile p {
+font-size: 30px;
+margin-top:2rem;
+margin-bottom:4rem;
+
+
+}
+
+
+.redes-sociais {
+display: flex;
+justify-content: center;
+
+}
+
+.redes-sociais li _{
+    margin-right: 1rem;
+}
