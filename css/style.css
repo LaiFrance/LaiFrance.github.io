@@ -15,14 +15,14 @@ li {
 
 body {
  font-family: "Source Code Pro", monospace;
- background: url("../imagens/wallpaperbetter.jpg")no-repeat top center;
+ background: url("../imagens/monte.jpg")no-repeat top center;
 background-attachment: fixed;
 background-size:cover ;
 display: grid;
 align-items: center;
 justify-items: center;
 height: 100vh;
-color: rgb(204, 64, 64);
+color: rgb(114, 163, 219);
 
 }
 
@@ -33,9 +33,9 @@ font-weight: normal;
 
 
 .box {
-    background-color:rgb(236, 223, 223);
+    background-color:rgb(28, 42, 119);
     padding: 4rem;
-    box-shadow: 2px 2px 16px rgba(rgb(8, 8, 8), rgb(233, 182, 233), rgb(230, 197, 243), alpha) ;
+    box-shadow: 2px 2px 16px rgba(rgb(8, 8, 8), rgb(12, 11, 95), rgb(230, 197, 243), alpha) ;
     border-radius: 20px;
     text-align: center;
 }
