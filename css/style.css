@@ -26,29 +26,36 @@ color: rgb(114, 163, 219);
 
 }
 
+#trybe{
+background-color: rgb(0, 0, 0);
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
 .title{
-   font: size 100px; ;
-font-weight: normal;
+   font: size 200px; ;
+font-weight:normal;
 }
 
 
 .box {
-    background-color:rgb(28, 42, 119);
-    padding: 4rem;
-    box-shadow: 2px 2px 16px rgba(rgb(8, 8, 8), rgb(12, 11, 95), rgb(230, 197, 243), alpha) ;
-    border-radius: 20px;
+    background-color:rgb(110, 33, 199);
+    padding: 2rem;
+    box-shadow: 2px 2px 16px rgba(rgb(8, 8, 8), rgb(12, 11, 95), rgb(16, 13, 17), alpha) ;
+    border-radius: 100px;
     text-align: center;
 }
 
 .profile-pic {
-
+    
     border-radius: 50%;
     margin:0 auto 2rem auto;
-    
+    padding: 10px;
+    background:rgb(179, 130, 224);
 }
 
 .box span {
-font-size: 20px;
+font-size: 30px;
 
 }
 
@@ -62,11 +69,36 @@ margin-bottom:4rem;
 
 
 .redes-sociais {
-display: flex;
+display:flex;
 justify-content: center;
 
 }
 
 .redes-sociais li _{
-    margin-right: 1rem;
+    margin-right: 2rem;
 }
+
+
+.esquerda{
+color:black
+
+}
+
+.h4{
+color: black;
+font-size: 50px;
+}
+
+.u-section-2 .u-image-2 {
+    width: 180px;
+    height: 180px;
+    background-image:url(https://c1.wallpaperflare.com/preview/811/367/789/technology-computer-creative-design.jpg);
+    background-position: 50% 50%;
+        margin-top: 8px;
+}
+
+.list-style {
+background-color: black;
+
+}
+
